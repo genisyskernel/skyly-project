@@ -1,4 +1,2 @@
 # SkyLy
- Programa de chat
-
-Repositório Oficial
+ Chatting program platform
