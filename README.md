@@ -1,2 +1,2 @@
-# SkyLy
+# skyly-project
  Chatting program platform
